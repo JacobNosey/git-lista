@@ -1,2 +1,6 @@
+ HEAD
 tekst tekstowy o tekstowym wydźwięku i tekstowej treści.
+
+ bardzo tekstowy o tekstowym wydźwięku i tekstowej treści.
+ pop
 bardziej tekstowego tekstu nie będzie.
